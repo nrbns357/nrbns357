@@ -4,7 +4,7 @@
 
  <div align=center>
 	
-	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusgh357@gmail.com)](mailto:gusgh357@gmail.com)
+	(https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusgh357@gmail.com)](mailto:gusgh357@gmail.com)
   </div>
 <!--
 **nrbns357/nrbns357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
