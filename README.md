@@ -20,7 +20,7 @@
 ### About Me👩‍💻
 <div align='center'>
     <a href="mailto:﻿"ghh357@naver.com"><span><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>
-</div>
+    <a href="mailto:﻿"https://www.instagram.com/hyeonho.gold/"><span><img src="https://img.shields.io/badge/instagrame-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>                         </div>
     
 ### My stats 🤓
   
