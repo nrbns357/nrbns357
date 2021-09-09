@@ -15,12 +15,11 @@
   <span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
 </div>
-</div>
     
 ### About Me👩‍💻
 <div align='center'>
     <a href="mailto:﻿"ghh357@naver.com"><span><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>
-    <a href="mailto:﻿"https://www.instagram.com/hyeonho.gold/"><span><img src="https://img.shields.io/badge/instagrame-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>                         </div>
+    <a href="https://www.instagram.com/hyeonho.gold/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minjae_1230/"/></a>&nbsp                         </div>
     
 ### My stats 🤓
   
