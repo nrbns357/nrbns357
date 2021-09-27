@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=nrbns's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc&descAlignY=51&descAlign=62)
 
 
-### 배움에는 끝이 없다. 항상 배움을 추구하는 금현호입니다.
-
 <p></p>
 
 ### Technology Stack📚
