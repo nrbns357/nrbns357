@@ -8,7 +8,6 @@
 
 스타일 라이브러리로는 styled-component는 능숙하게 사용가능 하고요, scss는 조금 해봤었습니다. 
 
-# 저의 가장큰 장점은 view를 기가막히게 짭니다. 소통도 잘하고요! 
 <div align='left'>
     <a href="https://www.instagram.com/gold___h.h/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gold___h.h/"/>
