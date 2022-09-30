@@ -1,21 +1,19 @@
-<div align='center'>
+<div align='left'>
+  
+안녕하세요. 저는 대구소프트웨어 마이스터고등학교에 재학중인 금현호 라고 합니다.
 
-<p></p>
+저의 분야는 [ 프론트엔드 ] 이고요, TypeScript로 React.js 프레임워크를 능숙하게 다룰줄압니다. 
 
-### Technology Stack📚
-<div align='center'>
-  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
-  <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><span>
-  <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></span>
-</div>
-    
-### About Me👩‍💻
-<div align='center'>
-    <a href="mailto:﻿"ghh357@naver.com"><span><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>
-    <a href="https://www.instagram.com/gold___h.h/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gold___h.h/"/></a>&nbsp                         </div>
+또 상태관리 라이브러리는 Redux, Recoil을 사용할줄 압니다. 
+
+스타일 라이브러리로는 styled-component는 능숙하게 사용가능 하고요, scss는 조금 해봤었습니다. 
+
+# 저의 가장큰 장점은 view를 기가막히게 짭니다. 소통도 잘하고요! 
+<div align='left'>
+    <a href="https://www.instagram.com/gold___h.h/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gold___h.h/"/>
+    </a>                    
+    </div>
     
 
 </div>
