@@ -6,7 +6,7 @@
 
 또 상태관리 라이브러리는 Redux, Recoil을 사용할줄 압니다. 
 
-스타일 라이브러리로는 styled-component는 능숙하게 사용가능 하고요, scss는 조금 해봤었습니다. 
+스타일 라이브러리로는 styled-components는 능숙하게 사용가능 하고요, scss는 조금 해봤었습니다. 
 
 <div align='left'>
     <a href="https://www.instagram.com/gold___h.h/">
