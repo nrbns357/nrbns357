@@ -1,12 +1,8 @@
-<div align='left'>
+<div align='center'> 
   
-Hi! i'm 대구소프트웨어마이스터고등학교에 재학중인 금현호 라고 합니다.
-
-<div align='left'>
-    <a href="https://www.instagram.com/gold___h.h/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gold___h.h/"/>
-    </a>                    
-    </div>
-    
+### About Me👩‍💻
+<div align='center'>
+    <a href="mailto:﻿"ghh357@naver.com"><span><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span></a>
+    <a href="https://www.instagram.com/gusgh_gold/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/gold___h.h/"/></a>&nbsp                         </div>
 
 </div>
